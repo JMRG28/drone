@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Drone_routing</string>
+    <string name="button_load">Load</string>
+    <string name="button_start">Start</string>
+    <string name="button_Load">Load</string>
+    <string name="start_text">Welcome! Your DJI product is not connected yet, please connect it to your smartphone</string>
+    <string name="text_connected">Welcome! Product connected!</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="lon">Longitude</string>
+    <string name="lat">Latitude</string>
+    <string name="angle">Angle</string>
+    <string name="length">Length</string>
+    <string name="width">Width</string>
+    <string name="height">Height</string>
+    <string name="nb">Nb of pics</string>
+    <string name="nbhint">Number of wanted pictures</string>
+    <string name="lonhint">Longitude (°)</string>
+    <string name="lathint">Latitude (°)</string>
+    <string name="angleHint">angle of the width relative to north (+°))</string>
+    <string name="lengthhint">Length (m)</string>
+    <string name="widthhint">Width (m)</string>
+    <string name="heighthint">Height (m)</string>
+    <string name="gps_not_found_title">\"gps not found\"</string>
+    <string name="gps_not_found_message">\"gps not found\"</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="curr">Current Loc</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="stop">Stop</string>
+    <string name="generate">Create Path</string>
+    <string name="onMap">Choose on Map</string>
+    <string name="remove">Remove</string>
+</resources>
